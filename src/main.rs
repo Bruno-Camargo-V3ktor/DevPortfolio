@@ -1,3 +1,4 @@
+mod models;
 mod views;
 
 use rocket::{self, launch};
