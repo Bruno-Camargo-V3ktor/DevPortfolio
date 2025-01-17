@@ -6,6 +6,8 @@ log_level = "normal"              # Nível de log (normal, debug ou critical)
 keep_alive = 5              # Tempo em segundos para conexões Keep-Alive
 limits = { forms = "32 KiB" }  # Limite de tamanho para dados enviados via formulário
 temp_dir = "/tmp"           # Diretório temporário para uploads
+secret_key =  #
+
 
 [debug]
 log_level = "normal"
