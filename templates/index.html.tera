@@ -1,0 +1,7 @@
+{% extends "base" %}
+
+{% block title %} {{ title }} {% endblock title %}
+
+{% block content %}
+
+{% endblock content %}
